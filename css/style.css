@@ -1,0 +1,37 @@
+main{
+    
+        background-image: url("https://i.ibb.co/TvjC7Wq/background.jpg");
+        background-color: #cccccc;
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+        height: 700px;
+        background-position: center
+       
+}
+#forForm{
+    margin-top: 100px;
+    
+}
+#header{
+    background-color: rgb(36, 36, 36);
+   
+}
+#logo{
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+h2{
+    color: blanchedalmond;
+   margin-bottom: 100px;
+    
+    text-align: center;
+    
+}
+#footer{
+    background-color: rgb(36, 36, 36);
+    text-align: center;
+    color: brown;
+   
+}
